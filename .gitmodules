@@ -1,0 +1,6 @@
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "network"]
+	path = network
+	url = https://github.com/razorsedge/puppet-network.git
